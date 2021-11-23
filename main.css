@@ -429,7 +429,7 @@ footer ul li {
 
 }
 
-@media screen and (min-width: 1281px) {
+@media screen and (min-width: 1243px) {
     .body-container {
         display: none;
     }
