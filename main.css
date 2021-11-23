@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;700;800&display=swap');
 
-@media screen and (max-width: 1025px) {
+@media screen and (max-width: 1239px) {
     .body-container {
         display: none;
     }
 }
 
-@media screen and (min-width: 1026px) {
+@media screen and (min-width: 1240px) {
 
 .max-width-heading {
     display: none;
@@ -429,7 +429,7 @@ footer ul li {
 
 }
 
-@media screen and (min-width: 1243px) {
+@media screen and (min-width: 1310px) {
     .body-container {
         display: none;
     }
