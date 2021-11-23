@@ -1,5 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;700;800&display=swap');
 
+@media screen and (max-width: 1025px) {
+    .body-container {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 1300px) {
+    .body-container {
+        display: none;
+    }
+
+    .max-width-heading {
+        display: block;
+    }
+}
+
+@media screen and (min-width: 1026px) {
+
+.max-width-heading {
+    display: none;
+}
+
 html, body, h1, h2, p, ul, li, a, img {
     margin: 0;
     padding: 0;
@@ -413,4 +435,6 @@ footer ul {
 
 footer ul li {
     padding-right: 1rem;
+}
+
 }
